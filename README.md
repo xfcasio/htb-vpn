@@ -13,6 +13,7 @@
 </p>
 
 <h2>Usage:</h2>
+
 ```
 usage: htb-vpn [OPTION] [CONFIG_PATH]
  OPTIONS:
