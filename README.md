@@ -12,3 +12,17 @@
     <img src="https://i.imgur.com/08NPiuI.png" />
 </p>
 
+<h2>Usage:</h2>
+```
+usage: htb-vpn [OPTION] [CONFIG_PATH]
+ OPTIONS:
+    -c, --connect          Connect to the HTB network with your configuration file.
+    -d, --disconnect       Disconnect from the HTB network.
+```
+
+<h2>Compile & Install:</h2>
+
+```
+$ make            # requires rust and cargo to build
+$ make install    # installs executable to /usr/local/bin
+```
