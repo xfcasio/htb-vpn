@@ -1,0 +1,10 @@
+[package]
+name = "htb-vpn"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.91"
+colored = "2.1.0"
+zbus = "5.0.1"
+
